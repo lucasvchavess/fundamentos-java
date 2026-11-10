@@ -1,3 +1,7 @@
 {
-  "java.project.sourcePaths": ["aulas"]
+  "java.project.sourcePaths": [
+    "aulas",
+    "beecrowd/1007"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
